@@ -1,0 +1,32 @@
+    #logoin {
+      background-color: white;
+    }
+
+    #h4diary , .diary {
+        background-color: rgb(231, 231, 159);
+        
+    }
+
+    .skills {
+        font-style: oblique;
+        font-weight: 700 ;
+    }
+
+    body {
+        background-color: rgb(231, 231, 159);
+    }
+
+    h1 {
+      font-size: 25px;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .aboutme {
+      font-family: Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    #photo {
+      text-align: center;
+    }
+    
