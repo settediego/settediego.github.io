@@ -14,20 +14,39 @@
 
     body {
         background-color: rgb(231, 231, 159);
+        padding: 1%;
     }
 
     h1 {
       font-size: 25px;
-      text-align: center;
+      text-align: left;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
     .aboutme {
       font-family: Tahoma, Geneva, Verdana, sans-serif;
+      position: absolute;
+      top: 30%;
+      left: 250px;
     }
 
-    #photo {
-      text-align: center;
-      background-color: rgb(221, 221, 168);
+    #mypicture {
+      height: 280px;
+      float: left;
+      padding: 10px;
+      background-color: rgb(136, 136, 104);
     }
-    
+
+    .myName {
+      text-align: center;
+    }
+
+    .image-container {
+      border: 0;
+      height: 300px;
+      position: relative;
+    }
+
+    ul li:nth-child(odd) {
+      background-color: beige;
+    }
